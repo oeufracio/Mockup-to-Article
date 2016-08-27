@@ -7,3 +7,18 @@ You've learned a lot about web development so far. I want you to take a moment t
 ---
 
 Your response goes here!
+
+What new skills have you learned?
+Of course, I have been learning the HTML5 syntax :)
+
+
+What has been easy?
+Every thing has been easy...until now!
+
+
+What has been difficult?
+I wanted to start and finish this project a few days ago but during the week I had some extra activities. So, I now realize that in a self-paced course the difficult part is to organize your time and try to work every day :)
+
+
+How have you used the problem solving strategies from the first project to overcome challenges so far?
+In general, I have been using the Mozilla Developer Network page for all my researches.
